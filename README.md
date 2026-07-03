@@ -1,4 +1,5 @@
 # Getting Started with Python
+
 Welcome to **Getting Started with Python** — a comprehensive beginner-friendly guide designed to help you learn Python from the ground up. Whether you’re a student, aspiring developer, or just curious about programming, this repository will walk you through the essential concepts, tools, and workflows needed to begin your Python journey confidently.
 
 ## What You’ll Learn
